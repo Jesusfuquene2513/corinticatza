@@ -1,0 +1,23 @@
+.footer .btn.btn-link {
+    display: block;
+    margin-bottom: 5px;
+    padding: 0;
+    text-align: left;
+    color: white;
+    font-weight: normal;
+    text-transform: capitalize;
+    transition: .3s;
+}
+.footer {
+    color: white;
+}
+
+#footer1 label{
+color:white}
+#footer1 h1{
+    color:white}
+
+    #footer1 .form-control{
+        color:black}
+        #footer1 .form-control{
+            font-weight: bolder;}

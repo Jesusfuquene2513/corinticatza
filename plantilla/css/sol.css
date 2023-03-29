@@ -1,0 +1,41 @@
+@media only screen and (max-width: 600px) {
+    #sol{
+        background-image: url('../../plantilla/img/sol.png');
+        background-size: 25%;
+        background-position: 50% 0%;
+        }
+}
+@media only screen and (min-width: 600px) {
+    #sol{
+        background-image: url('../../plantilla/img/sol.png');
+        background-size: 22%;
+        background-position: 50% 0%;
+        }
+}
+@media only screen and (min-width: 768px) {
+    #sol{
+        background-image: url('../../plantilla/img/sol.png');
+        background-size: 18%;
+        background-position: 50% 0%;
+        }
+}
+@media only screen and (min-width: 992px) {
+    #sol{
+        background-image: url('../../plantilla/img/sol.png');
+        background-size: 15%;
+        background-position: 50% 0%;
+        }
+}
+    @media only screen and (min-width: 1200px) {
+        #sol{
+            background-image: url('../../plantilla/img/sol.png');
+            background-size: 9%;
+            background-position: 50% 0%;
+            }
+    }
+
+    body{
+        background-image: url('../../plantilla/img/sol.png');
+        background-size: 9%;
+        background-position: 50% 0%;
+    }
